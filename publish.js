@@ -42,7 +42,7 @@ var urls=[
 	'umejxreg.cc',
 ];                                                                                                                  
 
-var JumpPage="https://xz18k81q.com";
+var JumpPage="https://dsu8wezvv.cc";
 
 var newestUrls = [];
 
